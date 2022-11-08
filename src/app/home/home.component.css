@@ -1,0 +1,167 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin:  0;
+	padding: 0;
+	direction: rtl;
+  font-family: 'Tajawal', sans-serif;
+
+}
+.rr{
+    margin-left:70px ;
+
+}
+.rr ul{
+    padding-left: 40px;
+
+}
+.rl {
+   padding-left: 40px;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../../assets/images/header2.jpg");
+	height: 100%;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+
+ul li {
+	display:inline-block;
+	text-decoration: none;
+	margin: 10px;
+	font-size: 20px;
+
+}
+header li a{
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+	 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.A{
+    color:#1abc9c;
+	text-decoration: underline;
+}
+ul li a:hover{
+	color:#1abc9c ;
+	border-bottom: 2px solid #1abc9c ;
+}
+.par1{
+width: 100%;
+height:100px;
+}
+.child1{
+
+	width: 45%;
+	height: 100%;
+	display: inline-block;
+}
+
+.child1 h1{
+	margin:0 ;
+	padding:0;
+	margin-top: 30px;
+	color: white;
+	font-weight: 400;
+	text-transform: uppercase;
+	direction: ltr;
+}
+.sec1 h1{
+	text-align: center;
+	margin-top: 200px;
+	color: white;
+	font-weight:bold;
+	font-size: 70px;
+
+
+}
+.sec1 span{
+	color:#1abc9c;
+}
+.sec1 p{
+	text-align: center;
+	margin-top: 80px;
+	color: black;
+	font-size: 30px;
+	color: white;
+}
+.sec1{
+    height: 100vh;
+}
+@media (max-width:1280px){
+	*{
+		box-sizing: border-box;
+}
+     .s_ch {
+     	width: 100%;
+		margin: auto;
+    	margin-top: 100px;
+		height: 100px;
+}
+     .s_ch h2,p{
+        width: 50%;
+		text-align: center;
+		margin: auto;
+
+}
+.s_ch2 {
+	width: 100%;
+   margin: auto;
+   margin-top: 100px;
+   height: 100px;
+}
+.s_ch2 h2,p{
+   width: 50%;
+   text-align: center;
+   margin: auto;
+
+}
+.clit h1{
+margin-top: 10%;
+
+}
+.sec3{
+	height: 60%;
+    overflow-y: scroll;
+}
+
+.son {
+	width: 100%;
+	text-align: center;
+	margin: auto;
+
+}
+.par1{
+	width: 100%;
+	height: 25vh;
+}
+.rr{
+	width: 100%;
+
+
+}
+.rl{
+	margin-right: 100px;
+
+	text-align: center;
+
+}
+ul li {
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+
+}
+.s_ch2{
+margin-bottom: 40px;
+}
+
+}
+.sec3{
+	width: 100%;
+}
