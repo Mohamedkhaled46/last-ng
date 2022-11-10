@@ -64,8 +64,8 @@
 </div>
 </div>
 
-<a href="#sec" >
-  <div  >
+<a href="#sec"  *ngIf="(scroll | async) > 600 ">
+  <div >
     <button class="iconn" >
       <i class="fa-solid fa-arrow-up iii"  id="ooo"></i>
     </button>

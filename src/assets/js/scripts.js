@@ -55,16 +55,16 @@
 
 
 
-let spn=document.getElementById("ooo");
+// let spn=document.getElementById("ooo");
 
- window.onscroll = function(){
-//    // console.log(this.scrollY)
-  if(this.scrollY > 1000 ){
-    spn.style
-   spn.classList.add('show');
-    }
-     else{
-   spn.classList.remove('show');
-    }
- }
+//  window.onscroll = function(){
+//    console.log(this.scrollY)
+  // if(this.scrollY > 1000 ){
+  //   spn.style
+  //  spn.classLسist.add('show');
+  //   }
+  //    else{
+  //  spn.classList.remove('show');
+  //   }
+//  }
 
