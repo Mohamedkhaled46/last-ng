@@ -1,16 +1,17 @@
 *{
 	box-sizing: border-box;
 }
-body{
+
+  body{
+
 	margin:  0;
 	padding: 0;
 	direction: rtl;
-  font-family: 'Tajawal', sans-serif;
+
 
 }
 .rr{
     margin-left:70px ;
-
 }
 .rr ul{
     padding-left: 40px;

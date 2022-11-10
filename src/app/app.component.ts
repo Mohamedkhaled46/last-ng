@@ -8,3 +8,14 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'last-angular';
 }
+
+// let spn=document.getElementById("ooo");
+//  window.onscroll = function(){
+// //    // console.log(this.scrollY)
+//   if(this.scrollY > 1000 ){
+//   spn.classList.add('show');
+//    }
+//     else{
+//   spn.classList.remove('show');
+//  }
+//  }

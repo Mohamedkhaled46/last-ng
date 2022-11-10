@@ -1,22 +1,32 @@
-body{
-  font-family: 'Tajawal', sans-serif;
-}
+
+
 
 .iii{
-background-color: rgb(222, 216, 40);
- color: rgb(8, 5, 5);
- text-align: center;
- font-size: xx-large;
- border-radius: 90%;
- margin-left: 1450px;
- left: 0px;
- top: 600px;
- position: fixed;
- transition: 2s;
-}
-
-.iii:hover{
-  height: 30px;
+  color: rgb(247, 245, 245);
+  background-color: rgb(208, 120, 4);
   width: 30px;
-  transition: 2s;
-}
+  text-align: center;
+  font-size: xx-large;
+  border-radius: 20%;
+  margin-left: 1450px;
+  right: 40px;
+  bottom: 20px;
+  position: fixed;
+  transition: .2s;
+  box-shadow: 0 0 10px;
+  cursor: pointer;
+
+ /* display: none; */
+
+
+ }
+ /* .iii:hover{
+   height: 30px;
+   width: 30px;
+   transition: 2s;
+ } */
+
+  /* .iii.show{
+   right: 50px;
+
+ } */
